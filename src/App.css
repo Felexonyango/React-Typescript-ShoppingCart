@@ -1,0 +1,11 @@
+.Button {
+    border-radius: 0 0 20px 20px;
+    position: fixed;
+    z-index: 100;
+    right: 20px;
+    top: 20px;
+}
+
+.divs {
+    margin: 40px;
+}
